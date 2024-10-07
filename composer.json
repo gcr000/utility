@@ -11,6 +11,6 @@
       "gcr000\\utility\\": "src/"
     }
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true
 }
